@@ -3,7 +3,7 @@ DLL com funções relacionadas a emissão, consulta e eventos da Nota Fiscal Ele
 
 ### Guia de uso:
 O guia completo de uso, com a descrição integral dos métodos, encontra-se no seguinte arquivo PDF: <br />
-[Guia-NFe_Util.pdf](https://drive.google.com/file/d/1FlNi-a_JZeLGQIZBmcNbR9jF5QhvMZjJ/view?usp=sharing)
+[Guia-NFe_Util](https://drive.google.com/file/d/1FlNi-a_JZeLGQIZBmcNbR9jF5QhvMZjJ/view?usp=sharing)
 
 Documentos úteis: <br />
 [NF-e: Nota Técnica 2014/002](https://www.nfe.fazenda.gov.br/portaL/exibirArquivo.aspx?conteudo=0UjmxluFtt4=)
